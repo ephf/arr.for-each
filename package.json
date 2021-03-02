@@ -1,0 +1,24 @@
+{
+  "name": "arr.set-each",
+  "version": "1.0.0",
+  "description": "array.forEach but every value is set in the array",
+  "main": "setEach.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ephf/arr.for-each.git"
+  },
+  "keywords": [
+    "forEach",
+    "set",
+    "array"
+  ],
+  "author": "ephf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ephf/arr.for-each/issues"
+  },
+  "homepage": "https://github.com/ephf/arr.for-each#readme"
+}
